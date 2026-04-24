@@ -5,7 +5,7 @@ from sklearn.cluster import KMeans
 from src.preprocessing import FullPreprocessor
 from src.feature_engineering import FeatureEngineer
 
-def build_pipeline(num_features, cat_features, n_clusters = 4):
+def build_pipeline(num_features, cat_features, n_clusters = 5):
 
     STEPS = [
         ("feature_engineering", FeatureEngineer()),

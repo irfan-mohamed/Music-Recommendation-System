@@ -46,9 +46,10 @@ df["cluster"] = pipeline.predict(df)
 
 cluster_labels = {
     0 : 'Energetic Happy',
-    1 : 'Party',
-    2 : 'Calm Acoustic',
-    3 : 'Balanced'
+    1 : 'Dance Party',
+    2 : 'Instrumental Calm',
+    3 : 'Acoustic Chill',
+    4 : 'Rap / Spoken'
 }
 
 df["cluster_label"] = df['cluster'].map(cluster_labels)
