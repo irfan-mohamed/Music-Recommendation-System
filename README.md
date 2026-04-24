@@ -15,9 +15,6 @@ A machine learning-based recommendation system that suggests Spotify tracks base
 - [Data Pipeline](#data-pipeline)
 - [Model Architecture](#model-architecture)
 - [API Documentation](#api-documentation)
-- [Usage](#usage)
-- [Results](#results)
-- [Future Improvements](#future-improvements)
 
 ---
 
