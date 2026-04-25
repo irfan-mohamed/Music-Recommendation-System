@@ -22,7 +22,7 @@ A machine learning-based recommendation system that suggests Spotify tracks base
 
 This project builds an intelligent music recommendation engine that:
 - Processes Spotify track audio features and metadata
-- Groups tracks into meaningful clusters (Energetic Happy, Party, Calm Acoustic, Balanced)
+- Groups tracks into meaningful clusters (Energetic Happy, Dance Party, Instrumental Calm, Acoustic Calm, Rap / Spoken)
 - Recommends similar tracks based on cosine similarity within the same cluster
 - Exposes functionality through a REST API for easy integration
 
