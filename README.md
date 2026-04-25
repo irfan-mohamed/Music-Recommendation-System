@@ -32,7 +32,7 @@ The system is designed to understand music characteristics beyond simple genre c
 
 ## Features
 
-- **Smart Clustering**: Groups tracks into 4 meaningful clusters based on audio characteristics
+- **Smart Clustering**: Groups tracks into 5 meaningful clusters based on audio characteristics
 - **Content-Based Recommendations**: Uses cosine similarity to find similar tracks within clusters
 - **Feature Engineering**: Creates derived features like energy-to-danceability ratio and acoustic softness
 - **Multi-Label Genre Support**: Handles multiple genres per track
